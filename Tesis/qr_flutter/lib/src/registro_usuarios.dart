@@ -171,7 +171,7 @@ class insertar extends State<insertar_usuarios> {
               decoration: ShapeDecoration(
                 shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(30.0)),
-                gradient: LinearGradient(color: [
+                gradient: LinearGradient(colors: [
                   Color(0xFF0EDED2),
                   Color(0xFF03A0FE),
                 ], begin: Alignment.topLeft, end: Alignment.bottomRight),
